@@ -8,7 +8,7 @@
 
 | 项目 | 链接 |
 |------|------|
-| 在线体验 | [在线体验](https://chat.good.hidns.vip) |
+| 在线体验 | [在线体验](https://rp.good.hidns.vip) |
 | 使用教程 | [视频教程（B 站）](https://www.bilibili.com/video/BV1XHw2zrEzY) |
 
 
