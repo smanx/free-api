@@ -8,7 +8,7 @@ Free API is a public, no-cost API service compatible with both OpenAI API and An
 
 | Item | Link |
 |------|------|
-| Web Chat | [Online Demo](https://chat.good.hidns.vip) |
+| Web Chat | [Online Demo](https://rp.good.hidns.vip) |
 
 
 ## API Information
