@@ -23,18 +23,7 @@ Free API is a public, no-cost API service compatible with both OpenAI API and An
 
 ## Supported Models ([Status Page](https://status.good.hidns.vip))
 
-| Model | Model ID | Description |
-|------|---------|------|
-| ~~GPT~~ | ~~gpt-5.4~~ | ~~Recommended for chat, vision, and tool use~~ |
-| Grok | grok-4.20-fast | ~~Best suited for image generation~~, with fewer conversation restrictions |
-| ~~Claude~~ | ~~anthropic/claude-sonnet-4.6~~ | ~~Claude Code~~ |
-| Qwen | qwen3.6-plus | Image generation, video recognition |
-| GLM | z-ai/glm-5.1 | Zhipu GLM |
-| Kimi | moonshotai/kimi-k2.5 | Kimi |
-| MiniMax | minimaxai/minimax-m2.7 | MiniMax |
-| DeepSeek | deepseek-ai/deepseek-v4-flash | DeepSeek |
-
-> Note: `Grok` and `Qwen` do not support tool calling. Attempting to use tools with them may produce unreliable results.
+![Model Status](https://s.wordpress.com/mshots/v1/https://status.good.hidns.vip?w=1280&h=660)
 
 ## Supported Endpoints
 
